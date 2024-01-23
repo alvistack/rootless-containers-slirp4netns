@@ -1,0 +1,5 @@
+slirp4netns source: absolute-symbolic-link-target-in-source
+slirp4netns source: configure-generated-file-in-source
+slirp4netns source: file-without-copyright-information
+slirp4netns source: no-debian-changes
+slirp4netns source: source-is-missing

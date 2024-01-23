@@ -1,0 +1,5 @@
+slirp4netns (100:1.2.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 23 Jan 2024 21:22:50 +0800
